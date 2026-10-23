@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am an experienced technical leader with a background in software engineering, data engineering and devops. 
 
+Currently working as VP of Engineering at [Yuno](https://y.uno/en)
+
 - I like to code in Python for the most part, when developing AWS CDK, I prefer TypeScript
 - I do know a little bit of Java and Scala as well
 - I’m looking to collaborate on anything open source - my expertise is AWS, Serverless, Python (both from a data engineering stack and a backend software engineering stack); but i'm always up for learning new stuff
